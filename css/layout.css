@@ -1,0 +1,3 @@
+
+.cl:before, .cl:after { content:""; display:table; }
+.cl:after { clear:both; }
