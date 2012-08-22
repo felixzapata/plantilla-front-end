@@ -1,0 +1,1 @@
+Una plantilla tipo Front End para empezar a trabajar un proyecto nuevo
