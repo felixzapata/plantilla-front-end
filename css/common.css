@@ -14,9 +14,9 @@ del{text-decoration:line-through}
 abbr[title], dfn[title]{border-bottom:1px dotted #000;cursor:help}
 .clickable, label, input[type=button], input[type=submit], input[type=reset], button{cursor:pointer} /* hand cursor on clickable elements */
 pre, code, kbd, samp{font-family:monospace, sans-serif} /* standardize any monospaced elements */
-/* Added by Tanta to reset form elements */
+/* Added to reset form elements */
 input, textarea, select, option{margin:0;padding:0;border:1px solid #000;background:none;font:100%/100% Arial, sans-serif}
-/* Added by Tanta to reset strong, em*/
+/* Added to reset strong, em*/
 strong, b {font-weight:bold}
 em, i {font-style:italic}
 /*img {max-width:100%; /*Prevent stretching of full-size and large-size images with height and width attributes in IE8 width: auto; height:auto;}*/
